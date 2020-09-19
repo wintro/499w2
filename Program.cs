@@ -42,7 +42,7 @@ namespace _499w2
             var minOp = new Minus<int>();
             // add test;
 
-            Console.WriteLine("My add works: " + addOp.call(1, 2));
+            Console.WriteLine("My add(Jimmy) works: " + addOp.call(1, 2));
             Console.WriteLine("My minus(Giles) works: " + minOp.call(4, 2));
             Console.WriteLine("Hello World!");
         }
